@@ -1,2 +1,2 @@
-# Taller_condicionales.
+# Taller_condicionales
 Ejercicios de programacion
