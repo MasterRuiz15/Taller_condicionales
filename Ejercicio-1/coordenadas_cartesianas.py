@@ -12,7 +12,7 @@ if X == 0:
         print("La coordenada" ,(X  , Y), "esta en el eje Y")
 elif Y == 0:
     print("La coordenada" ,(X  , Y), "esta en el eje Y")
-elif X == 0:
+elif X > 0:
     if Y > 0:
         print("La coordenada" ,(X  , Y), "esta en el cuadrante 1")
     else:
