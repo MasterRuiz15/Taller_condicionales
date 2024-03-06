@@ -10,9 +10,9 @@ Peso: el peso del cliente
 
 Altura: La altura de el cliente
 
-# PROCESSING
+# PROCESSING.
 
-(IMC = PESO[kg] / ALTURA2  [ml])
+(IMC = PESO kg / ALTURA2 ml)
 
 De 16 a 17 = Infrapeso
 
@@ -28,14 +28,14 @@ De 35 a 40 = Obesidad premórbida (obesidad de grado III)
 
 Mayor a 40 = Obesidad mórbida (obesidad de grado IV)
 
-# OUTPUT
+# OUTPUT.
 
 El índice de masa corporal de la persona
 
 El estado de la persona
 
-# DISEÑO
+# DISEÑO.
 
 ![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
 
-# CONSTRUCCION
+# CONSTRUCCION.
